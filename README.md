@@ -78,4 +78,5 @@ Run the game with:
 
 ## 🧑‍💻 Authors
 
-This project was built by Divy, Kshaman and Siddh as part of the CS246 Chess Project at the University of Waterloo.
+This project was built by Divy, Kshaman and Siddh.
+
