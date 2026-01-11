@@ -70,11 +70,6 @@ Our chess engine fully implements the rules of standard chess, including:
 - `= black` — Set the current turn to black  
 - `done` — Exit setup mode and start the game  
 
-## 🚩 Optional Enhancements
-
-- `-bonus` — Enables timer and undo move features  
-Run the game with:
-./chess -enablebonus
 
 ## 🧑‍💻 Authors
 
